@@ -1,6 +1,8 @@
 [submodule "gir"]
 	path = gir
 	url = ssh://git@github.com/DependencyCodeEditorLand/GIR.git
+	ignore = all
 [submodule "gir-files"]
 	path = gir-files
 	url = ssh://git@github.com/DependencyCodeEditorLand/GIRFile.git
+	ignore = all
